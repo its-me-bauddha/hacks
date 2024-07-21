@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "profilePhoto": "https://via.placeholder.com/100",
+      "points": 140
+    }
+  ],
+  "foods": [
+    {
+      "id": "1",
+      "name": "Salad",
+      "healthiness": 80
+    },
+    {
+      "id": "2",
+      "name": "Burger",
+      "healthiness": 30
+    }
+  ]
+}
